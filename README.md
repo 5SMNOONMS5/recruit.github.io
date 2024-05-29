@@ -31,6 +31,26 @@
 - 細心
 - 學習能力快（ 會有教學 )
 
+# 其他
+
+技術 Stack 目前所有專案皆採用前後端分離，您將會學習到極為快速的軟體開發流程，部署跟發版都是用 **小時** 當作單位
+
+## 前端 Tech Stack
+
+- [Vue3](https://vuejs.org/) + [Nuxt3](https://nuxt.com/)
+
+## 後端 Tech Stack
+
+- PHP + Laravel + [Filamentphp](https://filamentphp.com/)
+
+## 部署平台
+
+- [Docker](https://www.docker.com/) + [GCP](https://cloud.google.com/free/?utm_source=google&utm_medium=cpc&utm_campaign=japac-TW-all-en-dr-BKWS-all-core-trial-EXA-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_644095273669-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+-GCP-General-core+brand-main-KWID_43700074766895907-kwd-87853815&userloc_9040379-network_g&utm_term=KW_gcp&gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9OjjtXfyFEm1kHvTaV1hlCTUqb0TZindYzecbFBJMH8zwPO6amndnAaAtngEALw_wcB&gclsrc=aw.ds) + [Netlify](https://www.netlify.com/)
+
+## 測試
+
+使用 Github Actions 來達到自動化部屬 ( CD ) 跟 自動化測試 ( CI )
+
 # 工作地點
 
 [Google Maps 位置](https://maps.app.goo.gl/zrkDuSVHdem9P6Er9)
