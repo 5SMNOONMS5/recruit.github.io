@@ -27,6 +27,6 @@
 - 英文能力中等
 - 無經驗可
 
-# 地點
+# 工作地點
 
 [Google Maps 位置](https://maps.app.goo.gl/zrkDuSVHdem9P6Er9)
