@@ -14,6 +14,7 @@
 3. 測試產品，需思考測試案例
 4. 追蹤專案進度（使用 [GitHub Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) ）
 5. 與客戶溝通
+6. 與外包工程師溝通
 
 > 主要輔助我（2 ~ 3 個月內），會陸陸續續把團隊建立起來
 
