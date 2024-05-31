@@ -15,7 +15,7 @@
 4. 追蹤專案進度（使用 [GitHub Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) ）
 5. 與客戶溝通
 
-> 主要輔助我（2 ~ 3 個月內），之後會再請前端把團隊建起來。
+> 主要輔助我（2 ~ 3 個月內），會陸陸續續把團隊建立起來
 
 # 待遇
 
