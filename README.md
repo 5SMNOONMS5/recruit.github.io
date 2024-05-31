@@ -54,3 +54,10 @@
 # 工作地點
 
 [Google Maps 位置](https://maps.app.goo.gl/zrkDuSVHdem9P6Er9)
+
+# 聯絡方式
+
+請寄信到
+
+tasb00429@gmail.com
+
